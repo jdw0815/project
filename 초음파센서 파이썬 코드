@@ -29,3 +29,12 @@ import RPi.GPIO as gpio
  print "Distance : ", distance, "cm"
  except :
  gpio.cleanup()
+
+
+
+
+
+
+
+실행하기
+$sudo python ultra.py
